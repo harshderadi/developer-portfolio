@@ -47,31 +47,33 @@ Edit
 1. Fork this repository and clone it to your local machine.
 
 ```bash
-$ git clone https://github.com/harshderadi/developer-portfolio.git
+git clone https://github.com/harshderadi/developer-portfolio.git
 Navigate into the repository
-```bash
+bash
 Copy
 Edit
-$ cd developer-portfolio
+cd developer-portfolio
 Install dependencies
-```bash
+bash
 Copy
 Edit
-$ yarn
+yarn
 Edit portfolio.js
 
 Start your development server
 
-```bash
+bash
 Copy
 Edit
-$ yarn dev
+yarn dev
 Linking Portfolio to Github
+Edit portfolio.js:
+
 javascript
 Copy
 Edit
-  // portfolio.js
-  githubUserName: 'harshderadi',
+// portfolio.js
+githubUserName: "harshderadi",
 Technologies Used
 Next.js
 axios
@@ -88,6 +90,5 @@ Dark Mode Support
 Additional Sections
 Author
 👤 Harsh Deradi
-
 Github: @harshderadi
 LinkedIn: @harsh-deradi1
