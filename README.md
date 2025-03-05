@@ -66,9 +66,8 @@ yarn dev
 
 ## Technologies Used
 Next.js  
-
-axios
-reactstrap
+axios  
+reactstrap  
 react-reveal
 react-lottie
 react-easy-emoji
