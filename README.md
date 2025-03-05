@@ -65,7 +65,7 @@ yarn dev
 
 
 ## Technologies Used
-Next.js
+Next.js &nspb
 axios
 reactstrap
 react-reveal
