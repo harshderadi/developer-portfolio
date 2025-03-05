@@ -58,15 +58,14 @@ yarn dev
 
 ## Technologies Used  
 
-Next.js  
-axios  
-reactstrap  
-react-reveal  
-react-lottie  
-react-easy-emoji  
-react-headroom  
-color-thief  
-Future Enhancements   
+- Next.js  
+- Axios  
+- Reactstrap  
+- React-reveal  
+- React-lottie  
+- React-easy-emoji  
+- React-headroom  
+- Color-thief     
 
 ## Dark Mode Support
 
