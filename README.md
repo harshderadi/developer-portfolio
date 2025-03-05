@@ -64,7 +64,7 @@ yarn dev
 ```
 
 
-##**Technologies Used**
+## Technologies Used
 Next.js
 axios
 reactstrap
@@ -74,11 +74,10 @@ react-easy-emoji
 react-headroom
 color-thief
 Future Enhancements
-If you'd like to contribute, consider working on:
 
-Dark Mode Support
+## Dark Mode Support
 
-##Author
+## Author
 👤 Harsh Deradi  
 🔗 GitHub: @harshderadi  
 🔗 LinkedIn: @harsh-deradi1  
