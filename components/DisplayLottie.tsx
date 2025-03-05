@@ -9,11 +9,10 @@ type Props = {
 
 const GreetingLottie = ({ animationPath }: Props) => {
   const defaultOptions = {
-    loop: true,
-    autoplay: true,
-    path: animationPath,
-  };
-
+  loop: true,
+  autoplay: true,
+  animationData: animationFile, // Ensure this is imported correctly
+};
   return (
     <div onClick={() => null}>
       <Lottie options={defaultOptions} />
