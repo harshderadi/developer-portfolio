@@ -38,42 +38,33 @@ node@v10.16.0 or higher
 npm@6.9.0 or higher
 git@2.17.1 or higher
 
-bash
-Copy
-Edit
 
 ## How To Use
 
-1. Fork this repository and clone it to your local machine.
+**1. Fork this repository and clone it to your local machine.**
 
    ```bash
    git clone https://github.com/harshderadi/developer-portfolio.git
    ```
-2. Navigate into the repository
+**2. Navigate into the repository**
 
 ```bash
 cd developer-portfolio
 ```
-3. Install dependencies
+**3. Install dependencies**
 
 ```bash
 yarn
 ```
-Edit portfolio.js
 
-4. **Start your development server
+**4. Start your development server**
 
 ```bash
 yarn dev
 ```
-Linking Portfolio to Github
-```
-Edit portfolio.js:
-```
 
-// portfolio.js
-githubUserName: "harshderadi",
-Technologies Used
+
+**Technologies Used**
 Next.js
 axios
 reactstrap
@@ -86,7 +77,7 @@ Future Enhancements
 If you'd like to contribute, consider working on:
 
 Dark Mode Support
-Additional Sections
+
 Author
 👤 Harsh Deradi
 🔗 GitHub: @harshderadi
