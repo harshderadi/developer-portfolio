@@ -37,7 +37,8 @@ const Greetings = () => {
                       <Button
                         className="btn-white btn-icon mb-3 mb-sm-0 ml-1"
                         color="default"
-                        href={greetings.resumeLink}
+                        href="https://drive.google.com/file/d/1vkQ1fzALUsB3fjRkLGM_z0aYwzs9Rgwr/view?usp=drive_link"
+                        target="_blank"
                       >
                         <span className="btn-inner--icon mr-1">
                           <i className="fa fa-file" />
