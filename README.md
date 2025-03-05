@@ -56,7 +56,8 @@ yarn dev
 ```
 
 
-## Technologies Used
+## Technologies Used  
+
 Next.js  
 axios  
 reactstrap  
