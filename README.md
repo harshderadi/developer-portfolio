@@ -92,5 +92,5 @@ Dark Mode Support
 Additional Sections
 Author
 👤 Harsh Deradi
-Github: @harshderadi
-LinkedIn: @harsh-deradi1
+🔗 GitHub: @harshderadi
+🔗 LinkedIn: @harsh-deradi1
