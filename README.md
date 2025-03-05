@@ -46,14 +46,16 @@ Edit
 
 1. Fork this repository and clone it to your local machine.
 
-```bash
-git clone https://github.com/harshderadi/developer-portfolio.git
+   ```bash
+   git clone https://github.com/harshderadi/developer-portfolio.git
 Navigate into the repository
+
 bash
 Copy
 Edit
 cd developer-portfolio
 Install dependencies
+
 bash
 Copy
 Edit
