@@ -48,7 +48,7 @@ Edit
 
    ```bash
    git clone https://github.com/harshderadi/developer-portfolio.git
-Navigate into the repository
+2. Navigate into the repository
 
 bash
 Copy
