@@ -11,13 +11,7 @@
 
 ## To view a live example, **[click here](https://developer-portfolio-harshderadi.vercel.app/)**.
 
-Just edit `portfolio.js` to customize your personal portfolio. Feel free to use it as-is or modify it as per your needs.
-
-If you want to **contribute** and enhance this project, check out the  
-[Issues](https://github.com/harshderadi/developer-portfolio/issues).  
-
-If you create something amazing and want to contribute, feel free to open a  
-[pull request](https://github.com/harshderadi/developer-portfolio/pulls).
+Just edit `portfolio.js` to customize your personal portfolio. Feel free to use it as-is or modify it as per your needs.  
 
 ## Sections
 
