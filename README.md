@@ -50,21 +50,21 @@ Edit
    git clone https://github.com/harshderadi/developer-portfolio.git
 2. Navigate into the repository
 
-bash
+```bash
 Copy
 Edit
 cd developer-portfolio
-Install dependencies
+3. Install dependencies
 
-bash
+```bash
 Copy
 Edit
 yarn
 Edit portfolio.js
 
-Start your development server
+4. Start your development server
 
-bash
+```bash
 Copy
 Edit
 yarn dev
