@@ -17,9 +17,7 @@ Just edit `portfolio.js` to customize your personal portfolio. Feel free to use 
 
 ✔️ Summary and About Me  
 ✔️ Skills  
-✔️ Education  
-✔️ Work Experience  
-✔️ Feedbacks  
+✔️ Education    
 ✔️ Projects  
 ✔️ Github Profile  
 
