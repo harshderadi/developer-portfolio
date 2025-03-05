@@ -49,12 +49,12 @@ Edit
 ```bash
 $ git clone https://github.com/harshderadi/developer-portfolio.git
 Navigate into the repository
-bash
+```bash
 Copy
 Edit
 $ cd developer-portfolio
 Install dependencies
-bash
+```bash
 Copy
 Edit
 $ yarn
@@ -62,7 +62,7 @@ Edit portfolio.js
 
 Start your development server
 
-bash
+```bash
 Copy
 Edit
 $ yarn dev
