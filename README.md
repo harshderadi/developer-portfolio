@@ -64,7 +64,7 @@ yarn dev
 ```
 
 
-**Technologies Used**
+##**Technologies Used**
 Next.js
 axios
 reactstrap
@@ -78,7 +78,7 @@ If you'd like to contribute, consider working on:
 
 Dark Mode Support
 
-Author
-👤 Harsh Deradi
-🔗 GitHub: @harshderadi
-🔗 LinkedIn: @harsh-deradi1
+##Author
+👤 Harsh Deradi  
+🔗 GitHub: @harshderadi  
+🔗 LinkedIn: @harsh-deradi1  
