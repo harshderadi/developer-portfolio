@@ -5,7 +5,8 @@
 
 <p align="center">
   <kbd>
-    <img src="https://github.com/harshderadi/developer-portfolio/blob/master/picture.PNG"></img>
+    <img src="![image](https://github.com/user-attachments/assets/f69c90d9-442f-45c3-8e1a-ac1abdc44937)
+"></img>
   </kbd>
 </p>
 
