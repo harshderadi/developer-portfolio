@@ -65,19 +65,19 @@ yarn dev
 
 
 ## Technologies Used
-Next.js  
+**Next.js  
 axios  
 reactstrap  
-react-reveal 
-react-lottie
-react-easy-emoji
-react-headroom
-color-thief
-Future Enhancements
+react-reveal  
+react-lottie  
+react-easy-emoji  
+react-headroom  
+color-thief  
+Future Enhancements ** 
 
 ## Dark Mode Support
 
 ## Author
-👤 Harsh Deradi  
-🔗 GitHub: @harshderadi  
-🔗 LinkedIn: @harsh-deradi1  
+👤 Harsh Deradi   
+🔗 GitHub: @harshderadi    
+🔗 LinkedIn: @harsh-deradi1    
