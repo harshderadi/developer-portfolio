@@ -44,30 +44,34 @@ Edit
 
 ## How To Use
 
-1. Fork this repository and clone it to your local machine.
+1. **Fork this repository and clone it to your local machine.
 
    ```bash
    git clone https://github.com/harshderadi/developer-portfolio.git
-2. Navigate into the repository
+   ```
+2. **Navigate into the repository
 
 ```bash
 Copy
 Edit
 cd developer-portfolio
-3. Install dependencies
+```
+3. **Install dependencies
 
 ```bash
 Copy
 Edit
 yarn
+```
 Edit portfolio.js
 
-4. Start your development server
+4. **Start your development server
 
 ```bash
 Copy
 Edit
 yarn dev
+```
 Linking Portfolio to Github
 Edit portfolio.js:
 
