@@ -68,7 +68,7 @@ yarn dev
 Next.js  
 axios  
 reactstrap  
-react-reveal
+react-reveal 
 react-lottie
 react-easy-emoji
 react-headroom
