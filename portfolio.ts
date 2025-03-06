@@ -163,7 +163,7 @@ export const projects: ProjectType[] = [
   {
     name: "Portfolio",
     desc: "A developer portfolio which gives all neccessary information about me to demonstrate my skills ",
-    link: "",
+    link: "https://developer-portfolio-harsh-deradis-projects.vercel.app/",
   },
 ];
 
