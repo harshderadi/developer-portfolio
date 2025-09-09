@@ -28,8 +28,7 @@ export const socialLinks: SocialLinksType = {
   linkedin: "https://www.linkedin.com/in/harsh-deradi1/",
   github: "https://github.com/harshderadi",
  // instagram: "https://www.instagram.com/harrrsshh__11",
-  // facebook: 'https://www.facebook.com/1hanzla100',
-  // twitter: 'https://twitter.com/1hanzla100',
+  
 };
 
 export const skillsSection: SkillsSectionType = {
@@ -147,7 +146,7 @@ export const projects: ProjectType[] = [
   {
     name: "CodeQuad",
     desc: "A Real Time Code Editor with AI Code Review and Task Management",
-    github: "https://github.com/Aviraj0714/CodeQuad",
+    github: "https://github.com/harshderadi/CodeQuad",
     link: "https://code-quad.netlify.app/",
   },
   {
@@ -173,12 +172,12 @@ export const projects: ProjectType[] = [
 export const seoData: SEODataType = {
   title: "Harsh Deradi",
   description: greetings.description,
-  author: "HArsh Deradi",
+  author: "Harsh Deradi",
   image: "https://avatars.githubusercontent.com/u/75111484?v=4",
-  url: "https://developer-portfolio-1hanzla100.vercel.app",
+  url: "https://developer-portfolio-harsh-deradis-projects.vercel.app/",
   keywords: [
     "Harsh",
-    "Hanzla Deradi",
+    "Harsh Deradi",
     "@1Harsh100",
     "1Harsh100",
     "Portfolio",
